@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movi</string>
+
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+
+    <string name="no_connection">Tidak ada koneksi internet</string>
+
+    <string name="genre_title">Hi, Yuk pilih genre film yang kamu inginkan</string>
+    <string name="genre_next">Lanjutkan</string>
+
+    <string name="movies_list_title">Berikut list film sesuai genre ${genre}</string>
+    <string name="movies_list_item_rating">0,0</string>
+    <string name="movies_list_item_title">Movie Title</string>
+    <string name="movies_list_item_year">Movie Year</string>
+
+    <string name="movie_detail_date">Date</string>
+    <string name="movie_detail_vote_rating">Vote</string>
+    <string name="movie_detail_summary">Summary</string>
+
+    <string name="movie_detail_user_reviews">Ulasan</string>
+    <string name="movie_detail_movie_review_see_more">Lihat Semua</string>
+    <string name="movie_reviews_user_name">User Name</string>
+    <string name="movie_reviews_rating">0,0</string>
+</resources>
